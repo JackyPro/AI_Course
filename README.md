@@ -29,4 +29,5 @@
 
 [![](https://img.shields.io/badge/Click_Start_Colab-LogisticRegression-yellow.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/LR.ipynb)  
 [![](https://img.shields.io/badge/Click_Start_Colab-MLP-green.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/MLP.ipynb)  
-[![](https://img.shields.io/badge/Click_Start_Colab-SVM-red.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/SVM_v2.ipynb)
+[![](https://img.shields.io/badge/Click_Start_Colab-SVM-red.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/SVM_v2.ipynb)  
+[![](https://img.shields.io/badge/Click_Start_Colab-SVMlearning-orange.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/SVM_learning.ipynb)  
