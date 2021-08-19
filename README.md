@@ -31,3 +31,13 @@
 [![](https://img.shields.io/badge/Click_Start_Colab-MLP-green.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/MLP.ipynb)  
 [![](https://img.shields.io/badge/Click_Start_Colab-SVM-red.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/SVM_v2.ipynb)  
 [![](https://img.shields.io/badge/Click_Start_Colab-SVMlearning-orange.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day2/SVM_learning.ipynb)  
+
+## Day3  
+- using Colab
+- dataset: kaggle dogs-vs-cats 
+- deep learning methods:
+    - Fine-turn Vgg16
+    - Train by scratch
+- framwork: tensorflow 2.x
+
+[![](https://img.shields.io/badge/Click_Start_Colab-dogs_and_cats_classification-purple.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day3/DL_Vgg16_demo_v3.ipynb)
