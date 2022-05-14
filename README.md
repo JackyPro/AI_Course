@@ -12,7 +12,7 @@
     - 2D decision boundary visualization for both binary class and multi-class
 
 [![](https://img.shields.io/badge/Click_Start_Colab-Preceptron2class-blue.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day1/Perceptron_iris_2class_view_details.ipynb)
-![![](https://img.shields.io/badge/Preceptron3class-yellow.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Perceptron_iris_3class.ipynb)  
+![![](https://img.shields.io/badge/Preceptron3class-yellow.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/DPerceptron_iris_3class.ipynb)  
 
 ## Day2  
 - using Colab
