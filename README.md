@@ -40,4 +40,4 @@
     - Train by scratch
 - framwork: tensorflow 2.x
 
-[![](https://img.shields.io/badge/Click_Start_Colab-dogs_and_cats_classification-purple.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day3/DL_Vgg16_demo_v3.ipynb)
+[![](https://img.shields.io/badge/Click_Start_Colab-dogs_and_cats_classification-purple.svg)](https://colab.research.google.com/github/JackyPro/AI_Course/blob/main/Day3/DL_Vgg16_.ipynb)
